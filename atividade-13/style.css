@@ -1,0 +1,7 @@
+span, a, strong {
+  border: 1px solid red;
+}
+
+h1, p, h2, div {
+  border: 1px solid blue;
+}
