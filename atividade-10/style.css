@@ -1,0 +1,24 @@
+
+.lista-1 li:first-child {
+  background-color: #caf;
+}
+
+.lista-1 li:last-child {
+  background-color: #cfa;
+}
+
+.lista-1 li:nth-child(3) {
+  background-color: #fda;
+}
+
+.lista-2 li:nth-child(odd) {
+  background-color: #cfa;
+}
+
+.lista-2 li:nth-child(even) {
+  background-color: #adf;
+}
+
+.lista-2 li:nth-child(4n) {
+  background-color: #caf;
+}
